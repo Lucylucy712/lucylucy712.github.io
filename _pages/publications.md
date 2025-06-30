@@ -4,40 +4,37 @@ title: "Publications & Talks"
 permalink: /publications/
 author_profile: true
 ---
-
-## Manuscripts
-
-- SOMA: a novel sampler for exchangeable variables  
-**Yifei Xiong**, Nianqiao P. Ju  
-Under review, May 2025. [[arXiv](https://arxiv.org/abs/2505.00635)]
-
-- Evaluating and improving subspace inference in Bayesian deep learning  
-**Yifei Xiong**, Nianqiao P. Ju, Ruqi Zhang  
-Under review, Oct 2024.
-
-- Leveraging nested MLMC for sequential neural posterior estimation with intractable likelihoods  
-Xiliang Yang, **Yifei Xiong**, Zhijian He  
-Revised, Dec 2023. [[arXiv](https://arxiv.org/abs/2401.16776)]
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=_04jemoAAAAJ&hl=en). 
 
 ## Publications
 
-- Simulation-based Bayesian Inference from Privacy Protected Data  
-**Yifei Xiong**, Nianqiao P. Ju, Sanguo Zhang  
-*Transactions on Machine Learning Research (TMLR)*, Mar 2025. [[Article](https://openreview.net/pdf?id=SB7JzhDG45)] [[arXiv](https://arxiv.org/abs/2310.12781)]
+- MetaPrism: A versatile toolkit for joint taxa/gene analysis of metagenomic sequencing data
+*G3*, Apr 2021. [[Article](https://academic.oup.com/g3journal/article/11/4/jkab046/6169530)]
 
-- An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
-**Yifei Xiong**, Xiliang Yang, Sanguo Zhang, Zhijian He  
-*Communications in Statistics - Simulation and Computation*, Jan 2025. [[Article](https://doi.org/10.1080/03610918.2025.2456576)] [[arXiv](https://arxiv.org/abs/2311.12530)]
+- Association of healthcare access with intensive care unit utilization and mortality in patients of Hispanic ethnicity hospitalized with COVID‐19
+*Journal of hospital medicine*, Nov 2021. [[Article](https://shmpublications.onlinelibrary.wiley.com/doi/abs/10.12788/jhm.3717)]
 
-- 3D geometric modeling analysis of contact probability effect in carbon black oxidation over MnOx-CeO2 catalysts  
-Jingheng Gao, **Yifei Xiong**, Qian Zhang, et.al  
-*Chemical Engineering Journal*, May 2020. [[Article](https://doi.org/10.1016/j.cej.2020.125448)]
+- Association between Antibiotic Exposure and Systemic Immune Parameters in Cancer Patients Receiving Checkpoint Inhibitor Therapy
+*Cancers*, Mar 2022. [[Article](https://www.mdpi.com/2072-6694/14/5/1327)]
+
+- Divergent prognostic effects of pre-existing and treatment-emergent thyroid dysfunction in patients treated with immune checkpoint inhibitors 
+*Cancer Immunology, Immunotherapy *, May 2022. [[Article](https://link.springer.com/article/10.1007/s00262-022-03151-2)]
+
+- MB-SupCon: microbiome-based predictive models via supervised contrastive learning
+*Journal of molecular biology*, Aug 2022. [[Arctile](https://www.sciencedirect.com/science/article/abs/pii/S0022283622002856)]
+
+- Systemic immune parameters after prior radiation therapy in patients receiving immune checkpoint inhibitors
+*Translational Oncology*, Aug 2023. [[Artilce](https://www.sciencedirect.com/science/article/pii/S193652332300075X)]
+
+- A Generalized Supervised Contrastive Learning Framework for Integrative Multi-omics Prediction Models
+*bioRxiv* [[Article](https://www.biorxiv.org/content/biorxiv/early/2023/11/06/2023.11.01.565241.full.pdf)]
+
+- Highly variable timing renders immunotherapy efficacy and toxicity impractical biomarkers of one another in clinical practice
+*Frontiers in immunology* [[Article](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1351739/full)]
 
 ## Talks
 
-- SNPE-B Revisited: Rethinking of Data Efficiency and Variance Reduction  
-Zhijian He, Yifei Xiong, Xiliang Yang  
-*10th International Congress on Industrial and Applied Mathematics (ICIAM)*, Waseda University, Tokyo, Aug 25, 2023. [[Link](https://iciam2023.org/registered_data?id=00652#04320)]  
+- A Framework to Explain Deep Learning Model Using Bayesian Rank Statistics and Layer-Wise Relevance Propagation  
+Yiqing Wang, Xiaowei Zhan, Guanghua Xiao, Sen Yang and Shidan Wang
+*JSM 2022*, Washington, D.C, Aug 2022. [[Link](https://ww2.amstat.org/meetings/jsm/2022/onlineprogram/AbstractDetails.cfm?abstractid=323286)]  
 
-- An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation  
-*The 24th Beijing-Tianjin-Hebei Youth Symposium on Probability Statistics*, Tsinghua University, Beijing, Jun 10, 2023. [[Slides](http://yifei-xiong.github.io/files/An efficient likelihood-free Bayesian inference method based on sequential neural posterior estimation.pdf)] [[Link](https://mp.weixin.qq.com/s/LPwgNA87waDtVY_j1_9McA)]  
