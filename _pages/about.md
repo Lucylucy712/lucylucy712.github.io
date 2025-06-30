@@ -35,7 +35,7 @@ Working Experience
 
 Education
 ======
-- Aug 2018 - May 2023, PhD in *Statistics* at[Southern Methodist University](https://www.smu.edu/dedman/academics/departments/statistics)  
+- Aug 2018 - May 2023, PhD in *Statistics* at [Southern Methodist University](https://www.smu.edu/dedman/academics/departments/statistics)  
 Advisor: Dr. [Xiaowei Zhan](https://qbrc.swmed.edu/labs/zhanlab/)
 
 - Aug 2016 - May 2018, M.A. in *Statistical Mathematics* at [Wake Forest University](https://math.wfu.edu/)  
